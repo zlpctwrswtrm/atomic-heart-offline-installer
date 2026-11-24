@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+In a mad and sublime utopian world, take part in explosive encounters. Adapt your fighting style to each opponent, use your environment and upgrade your equipment to fulfill your mission. If you want to reach the truth, you'll have to pay in blood.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 (20H1 version or newer, 64-bit versions) | macOS 11.0 or later |
+| **Processor** | Min: AMD Ryzen 3 1200 or Intel Core i5-2500 / Rec: AMD Ryzen 5 2600X or Intel Core i7-7700K | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: 4 GB VRAM, AMD Radeon R9 380 or NVIDIA GeForce GTX 960 / Rec: 8 GB VRAM, AMD RX 6700 XT or NVIDIA GeForce RTX 2070 | Metal-capable GPU |
+| **DirectX** | Version 12 | Version 12 |
+| **Storage** | 90 GB available space | 90 GB available space |
+| **Additional Notes** | Min: 30 FPS, 1920x1080 in low / Rec: SSD recommended, 60 FPS, 1920x1080 in ultra | 30 FPS, 1920x1080 in low |
 
 ---
 
